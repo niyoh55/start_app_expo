@@ -3,7 +3,7 @@
     "name": "start_app",
     "slug": "start_app",
     "version": "1.0.0",
-
+    "newArchEnabled": true,
     "scheme": "start_app",
     "web": {
       "bundler": "metro",
